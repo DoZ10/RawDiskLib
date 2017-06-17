@@ -11,6 +11,7 @@ namespace TestApplication
         {
             ExampleBase[] examples = new ExampleBase[]
                 {
+                    new ExampleBitlocker(),
                     new ExampleVolumes(),
                     new ExampleHarddiskVolumes(),
                     new ExamplePhysicalDrives(),

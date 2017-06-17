@@ -19,4 +19,9 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+  </ItemGroup>
+
 </Project>
